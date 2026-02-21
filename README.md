@@ -8,3 +8,4 @@ On Amruta you can find a pdf containing all ~3000 speeches transcribed in Englis
 - Log in with your google account
 - Create a new notebook
 - Find the section where you can upload your sources and add the 50 pdfs from this repository
+- Start asking questions!
